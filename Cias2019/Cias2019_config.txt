@@ -1,4 +1,0 @@
-data/Cias2019/Azuledges2019.edges;Azul;data/Cias2019/Cias2019_layout.txt
-data/Cias2019/Goledges2019.edges;Gol;data/Cias2019/Cias2019_layout.txt
-data/Cias2019/Latamedges2019.edges;Latam;data/Cias2019/Cias2019_layout.txt
-data/Cias2019/Passaredoedges2019.edges;Passaredo;data/Cias2019/Cias2019_layout.txt
