@@ -1,0 +1,4 @@
+data/Cias2020/Cias2020_Azul.edges;Azul;data/Cias2020/Cias2020_layout.txt
+data/Cias2020/Cias2020_Gol.edges;Gol;data/Cias2020/Cias2020_layout.txt
+data/Cias2020/Cias2020_Latam.edges;Latam;data/Cias2020/Cias2020_layout.txt
+data/Cias2020/Cias2020_Passaredo.edges;Passaredo;data/Cias2020/Cias2020_layout.txt
