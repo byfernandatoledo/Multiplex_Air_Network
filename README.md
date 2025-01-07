@@ -30,6 +30,6 @@ This repository contains the experimental data from the paper published in IEEE 
 - In the config file window click browse and select the config file of the network to be build.
 - In the network type window, select directed and weighted network. Then click import network.
 - In the diagnostics tab, plot each of the characterics in the Statistics subtab.
-- The results from the tables available in the paper can be used 
-- 
-- Run the network to calculate the network topological charactericts.
+- The results from the tables in the paper can be obtained in the Diagnostics tab: Statistics, Correlation, Centrality, Connected Components.
+
+  
