@@ -1,12 +1,12 @@
 # COVID-19 impact in the Brazilian Multiplex Air Transportation Network
 
-This repository contains the experimental data from the paper published in IEEE Latin America Transactions by Fernanda Toledo and Nelson Ebecken, from the Federal University of Rio de Janeiro, Rio de Janeiro, Brazil.
+This repository contains the experimental data from the paper published in IEEE Latin America Transactions by Fernanda Toledo and Nelson Ebecken, from the Federal University of Rio de Janeiro, Civil Engineering Department, Rio de Janeiro, Brazil.
 
 ## Running the experiment
 
-### Dataset for this paper is available in the dataset folder.
+### Dataset for this paper is available in the dataset folder
 
-- Subfolder [Cias2019](https://github.com/byfernandatoledo/Multiplex_Air_Network/tree/main/dataset/Cias2019) contains the edges information for each layer (airline), configuration of layers and layout providing the node label (airport IATA code) for the year 2019.
+- Subfolder [Cias2019](https://github.com/byfernandatoledo/Multiplex_Air_Network/tree/main/dataset/Cias2019) contains the edges information for each layer (corresponding each airline), configuration of layers and layout information providing the node label (airport ICAO code) for the year 2019.
 - Subfolder [Cias2020](https://github.com/byfernandatoledo/Multiplex_Air_Network/tree/main/dataset/Cias2020) contains the same data as above for the year 2020.
 
 ### MuxViz Setup 
@@ -27,9 +27,9 @@ This repository contains the experimental data from the paper published in IEEE 
 ```
 
 ### Building the network and analysis
-- In the config file window click browse and select the config file of the network to be build.
+- In the config file window click browse and select the config file of the network to be build (for 2019 or 2020).
 - In the network type window, select directed and weighted network. Then click import network.
-- In the diagnostics tab, plot each of the characterics in the Statistics subtab.
-- The results from the tables in the paper can be obtained in the Diagnostics tab: Statistics, Correlation, Centrality, Connected Components.
+- In the diagnostics tab, plot each of the characterics available in the Statistics subtab.
+- The results from the tables in the paper can be obtained by running the calculations in the Diagnostics tab: Statistics, Correlation, Centrality, Connected Components.
 
   
