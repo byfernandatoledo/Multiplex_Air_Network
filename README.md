@@ -9,7 +9,7 @@
 - Step 6: Select the characteristics of the network to be build and the dataset according to the input format. Dataset for the network of 2019 and 2020 are available.
 - Step 7: Run the network to calculate the network topological charactericts.
 
-Dataset for this paper is available in the folder data.
+Dataset for this paper is available in the dataset folder.
 
 
 
