@@ -12,7 +12,7 @@ This repository contains the experimental data from the paper published in IEEE 
 ### MuxViz Setup 
 - Install Microsoft R Open (v. 4.0.2)
 - Install the MuxViz R package, that can be downloaded in: [MuxViz](https://github.com/manlius/muxViz), following the installation steps
-- Copy the dataset folders to the following directory:
+- Copy the dataset subfolders to the following directory:
 ```sh
 "C:/path_to/muxviz-master/gui-old/data"
 ```
@@ -27,5 +27,9 @@ This repository contains the experimental data from the paper published in IEEE 
 ```
 
 ### Building the network and analysis
-- Select the characteristics of the network to be build and the dataset according to the input format. Dataset for the network of 2019 and 2020 are available.
+- In the config file window click browse and select the config file of the network to be build.
+- In the network type window, select directed and weighted network. Then click import network.
+- In the diagnostics tab, plot each of the characterics in the Statistics subtab.
+- The results from the tables available in the paper can be used 
+- 
 - Run the network to calculate the network topological charactericts.
