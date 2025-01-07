@@ -1,6 +1,6 @@
 # COVID-19 impact in the Brazilian Multiplex Air Transportation Network
 
-This repository contains the experimental data from the paper published in IEEE Latin America Transactions by Fernanda Toledo and Nelson Ebecken, from the Federal University of Rio de Janeiro, Civil Engineering Department, Rio de Janeiro, Brazil.
+This repository contains the experimental data from the paper "COVID-19 impact in the Brazilian Multiplex Air Transportation Network" published in IEEE Latin America Transactions by Fernanda Toledo and Nelson Ebecken, from the Federal University of Rio de Janeiro, Civil Engineering Department, Rio de Janeiro, Brazil.
 
 ## Running the experiment
 
